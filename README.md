@@ -43,7 +43,7 @@ Other sensors (skin temperature, respiration, motion for artifact rejection) may
 |---|---|---|
 | **1. Keyboard & mouse dynamics** | Rule-based detector with calibration and monitoring (this repo's current prototype) | In progress |
 | **2. Additional digital signals** | Webcam blink rate and other behavioral signals | Planned |
-| **3. Physiological sensing** | PPG, GSR, EEG acquisition on wearable/hearable hardware | Planned |
+| **3. Physiological sensing** | PPG, and EEG acquisition on wearable/hearable hardware | Planned |
 | **4. Multimodal fusion** | Combine digital and physiological features into one anxiety indicator | Planned |
 | **5. Intervention module** | Breathing exercise and similar relief mechanisms, triggered by the detector | Planned |
 | **6. Data collection & learning** | Collect labeled data with consent, then train and validate ML models against the rule-based baseline | Planned |
