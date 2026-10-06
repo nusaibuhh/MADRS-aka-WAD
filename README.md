@@ -33,7 +33,6 @@ The long-term goal is a **wearable / hearable device paired with software** that
 | Sensor | Typical derived measures |
 |---|---|
 | PPG | Heart rate, heart rate variability (HRV) |
-| GSR / EDA | Skin conductance level and responses |
 | EEG | Band power and related spectral features |
 
 Other sensors (skin temperature, respiration, motion for artifact rejection) may be added later.
